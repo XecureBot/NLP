@@ -24,7 +24,7 @@ for i in word:
 print(w)
 for i in w:
 	print(ps.stem(i))
-print(ps.stem(1233))
+print(ps.stem('1233'))
 # # txt="heloo d dd  dd dddddddddd dddd dddfjdjd rej dsijf as gng kdf jf kcjd"
 # tr=state_union.raw("2005-GWBush.txt")
 # s=state_union.raw("2006-GWBush.txt")
